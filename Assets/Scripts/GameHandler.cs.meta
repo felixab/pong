@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 87ef570b669e44647a85af5bd497e292
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - paddle: {fileID: -6832898653765025394, guid: d1a22c7e97804416bb890c2479144dad,
+      type: 3}
+  - ball: {fileID: 7062219494015061696, guid: d7f4250ae4ad3422a8865b3a6bc901f9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
